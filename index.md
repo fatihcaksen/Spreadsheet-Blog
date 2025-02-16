@@ -1,8 +1,7 @@
+
 ---
+layout: default
 title: "A Beginner’s Guide to Mastering Spreadsheets"
-author: "Your Name"
-date: "`r Sys.Date()`"
-output: html_document
 ---
 
 # Introduction

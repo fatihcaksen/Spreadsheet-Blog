@@ -1,10 +1,7 @@
 
----
-layout: default
-title: "A Beginner’s Guide to Mastering Spreadsheets"
----
 
-# Introduction
+
+# A Beginner’s Guide to Mastering Spreadsheets
 Spreadsheets are powerful tools for organizing, analyzing, and visualizing data. Whether you are using **Google Sheets**, **Microsoft Excel**, or other spreadsheet applications, learning key functionalities can improve your efficiency. This guide compiles essential resources for beginners and advanced users to master spreadsheet skills.
 
 ![Spreadsheets Sketch](spreadsheet_sketch.png)
